@@ -2,7 +2,7 @@ package com.two95.sooraj.BinarySearchTree;
 
 public class BST {
 	public static Node root;
-
+	//BST
 	public void insert(int data) {
 
 		if (root == null) {
